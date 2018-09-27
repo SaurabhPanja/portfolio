@@ -1,0 +1,44 @@
+body{
+  background: #ADA996;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#zoom:hover{
+  text-decoration: none;
+  font-size: 2em;
+}
+
+#me{
+  border-radius: 50%;
+}
+
+#blog{
+  height: 5em;
+  background: red;
+  color: white;
+  border: 2px solid black;
+  border-radius: 20%;
+}
+
+#error404{
+  font-family: 'Monofett', cursive;
+}
+
+#saint-quote{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 1.3em;
+}
+
+#clickhere{
+  background: url("/img/clickhere.gif");
+  font-family: 'Monoton', cursive;
+  font-weight: 200;
+}
+
+#social-buttons{
+  background: #A1FFCE;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FAFFD1, #A1FFCE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
